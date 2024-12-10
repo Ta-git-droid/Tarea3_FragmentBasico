@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarea3_FragmentBasico</string>
+    <string name="su_texto_aqu">Su texto aquí</string>
+    <string name="introduce_el_texto">Introduce el texto</string>
+    <string name="actualizar">Actualizar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
